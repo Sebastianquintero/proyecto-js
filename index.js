@@ -8,6 +8,6 @@ fn()
 
 const clickeado = () => {
     let a = "chanchito feliz"
-
+document.write("hola mundo");
     console.log(a)
 }
